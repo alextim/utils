@@ -12,5 +12,8 @@
   "repository": "git://github.com/alextim/utils.git",
   "bugs": {
     "url": "https://github.com/alextim/utils/issues"
-  }  
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }    
 }
