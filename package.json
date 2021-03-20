@@ -1,7 +1,6 @@
 {
-  "name": "at-traslit",
-  "description": "traslit",
-  "private": true,
+  "name": "@alextim/utils",
+  "description": "utils",
   "version": "0.0.1",
   "license": "MIT",
   "author": "Oleksii Tymoshenko <buildmnt@gmail.com>",
@@ -9,12 +8,9 @@
     "js"
   ],
   "main": "index.js",
-  "homepage": "https://github.com/alextim/at-traslit",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alextim/at-traslit.git"
-  },
+  "homepage": "https://github.com/alextim/utils",
+  "repository": "git://github.com/alextim/utils.git",
   "bugs": {
-    "url": "https://github.com/alextim/at-traslit/issues"
+    "url": "https://github.com/alextim/utils/issues"
   }  
 }
